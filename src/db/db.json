@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "490d6d8f-57ef-4eb0-8d2f-83d508274c8a",
+    "name": "Dr. Pedro O'Keefe",
+    "phone": "(619) 335-2592 x6561",
+    "email": "Elna_Wehner@yahoo.com",
+    "job": "National Data Developer"
+  },
+  {
+    "id": "c825d2fe-0748-4347-9cf6-ffcb8319756b",
+    "name": "Benny Fadel",
+    "phone": "510-702-3044 x65149",
+    "email": "Blake19@yahoo.com",
+    "job": "Product Identity Manager"
+  },
+  {
+    "id": "2af97e1f-2f9c-4903-a96b-5325e9be1c5e",
+    "name": "Katie Bednar",
+    "phone": "(931) 355-3223 x040",
+    "email": "Gunnar_Schultz70@hotmail.com",
+    "job": "Lead Integration Facilitator"
+  },
+  {
+    "id": "994524d3-eedc-476c-accc-a1f6f0ec8be7",
+    "name": "Bessie Rowe",
+    "phone": "904-299-8919 x904",
+    "email": "Sterling_Padberg36@hotmail.com",
+    "job": "Direct Quality Planner"
+  },
+  {
+    "id": "0ac13984-aeff-4603-b870-6380cac57714",
+    "name": "Nellie Morar",
+    "phone": "944-286-4795 x4333",
+    "email": "Jayden52@gmail.com",
+    "job": "Direct Directives Coordinator"
+  }
+]
